@@ -2,20 +2,6 @@
 
 Autost is a powerful automation platform designed to streamline and manage your data processing workflows using Dagster. This project leverages Docker for containerization, ensuring a consistent and scalable environment for deployment.
 
-## Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-  - [Using Docker](#using-docker)
-- [Configuration](#configuration)
-  - [Strategy Configuration](#strategy-configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features
 
 - **Containerized Environment:** Utilize Docker to ensure a consistent setup across different environments.
