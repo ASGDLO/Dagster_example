@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/autost.git
+   git clone https://github.com/ASGDLO/Dagster_example.git
    cd autost
    ```
 
