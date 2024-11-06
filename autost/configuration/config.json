@@ -1,0 +1,21 @@
+{
+    "scripts": [
+      {
+        "name": "script_1",
+        "path": "algo/script_1.py",
+        "countdown": 5
+      },
+      {
+        "name": "script_2",
+        "path": "algo/script_2.py",
+        "countdown": 6
+      },
+      {
+        "name": "script_3",
+        "path": "algo/script_3.py",
+        "countdown": 6
+      }
+     
+    ]
+  }
+  

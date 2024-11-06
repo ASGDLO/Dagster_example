@@ -1,0 +1,18 @@
+[
+    {
+      "docker_id":"1",
+      "strategy_name": "algo",
+      "cron_schedule": "* * * * *",
+      "map": ["RA12263"],
+      "execution_timezone": "Asia/Seoul"
+    },
+    {
+      "docker_id":"2",
+      "strategy_name": "algo2",
+      "cron_schedule": "* * * * *",
+      "map": ["RA12294"],
+      "execution_timezone": "Asia/Seoul"
+    }
+
+  ]
+  
